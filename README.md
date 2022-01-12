@@ -7,6 +7,15 @@ Datos basados en datos abiertos del MINSA, preprocesados en mis otros repositori
 - Positivos: https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa
   - Repositorio: https://github.com/jmcastagnetto/covid-19-peru-limpiar-datos-minsa
 
+
+Estos datos se actualizaran cada semana aproximadamente.
+
+Última actualización: 2022-01-12, usando
+
+- Datos de vacunas al 2021-01-08
+- Datos de positivos al 2021-01-11
+
+
 ## Estructura de datos
 
 Los datos de vacunados que pueden haber tenido una prueba positiva, están en archivos CSV comprimidos (`csv.7z`) separados por año y semana epidemiológica, y contienen los siguientes campos:
