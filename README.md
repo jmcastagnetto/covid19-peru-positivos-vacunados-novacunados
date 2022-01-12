@@ -1,4 +1,4 @@
-## Vacunados que han tenido pruebas positivas y positivos que no se han vacunado
+## Vacunados que pueden haber tenido pruebas positivas y positivos que no se han vacunado
 
 Datos basados en datos abiertos del MINSA, preprocesados en mis otros repositorios
 
